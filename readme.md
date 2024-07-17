@@ -7,7 +7,7 @@
 
 ชื่อ-สกุล : 660610805
 
-GitHub Page URL :
+GitHub Page URL : https://cpe207-students-167.github.io/lab07-KoMoRee/
 
 ---
 
